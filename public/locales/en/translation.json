@@ -1,0 +1,14 @@
+{
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "students": "Students",
+        "teachers": "Teachers",
+        "parents": "Parents",
+        "account": "Account",
+        "class": "Class",
+        "exam": "Exam",
+        "transport": "Transport",
+        "notice": "Notice",
+        "settings": "Settings"
+    }
+}

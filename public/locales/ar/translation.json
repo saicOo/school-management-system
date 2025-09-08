@@ -1,0 +1,14 @@
+{
+    "sidebar": {
+        "dashboard": "لوحة التحكم",
+        "students": "الطلاب",
+        "teachers": "المعلمين",
+        "parents": "أولياء الأمور",
+        "account": "الحساب",
+        "class": "الفصول",
+        "exam": "الامتحانات",
+        "transport": "المواصلات",
+        "notice": "الإشعارات",
+        "settings": "الإعدادات"
+    }
+}
