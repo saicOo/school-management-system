@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { FaGlobe, FaChevronDown, FaCheck } from "react-icons/fa";
-import i18n from "../i18n"; // import your i18n config
+import i18n from "../../i18n"; // import your i18n config
 
 /**
  * LanguageToggle Component

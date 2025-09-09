@@ -1,7 +1,7 @@
 import { FaBars, FaSearch, FaBell, FaEnvelope } from "react-icons/fa";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import LanguageToggle from "../LanguageToggle";
+import LanguageToggle from "./LanguageToggle";
 
 export default function Navbar({ onMenuClick }) {
   return (
