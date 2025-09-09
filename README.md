@@ -20,18 +20,20 @@ The project provides a clean and responsive admin panel for managing students, t
 
 ## 📂 Project Structure
 
+```text
 school-management-system/
 ├── src/
-│ ├── components/ # Reusable UI components
-│ ├── data/ # Static data (dashboard stats, mock data)
-│ ├── pages/ # App pages (Dashboard, Students, etc.)
-│ ├── i18n.js # i18next setup for translations
-│ ├── App.jsx # Main app component
-│ ├── main.jsx # Entry point
-├── public/ # Static assets
+│   ├── components/       # Reusable UI components
+│   ├── data/             # Static data (dashboard stats, mock data)
+│   ├── pages/            # App pages (Dashboard, Students, etc.)
+│   ├── i18n.js           # i18next setup for translations
+│   ├── App.jsx           # Main app component
+│   ├── main.jsx          # Entry point
+├── public/               # Static assets
 ├── package.json
 ├── tailwind.config.js
 ├── README.md
+```
 
 ---
 
